@@ -1,0 +1,2 @@
+https://docs.openvswitch.org/en/latest/howto/dpdk/
+https://docs.openvswitch.org/en/latest/intro/install/dpdk/
