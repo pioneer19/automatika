@@ -3,6 +3,7 @@ testpmd -l 1-3 -n 1 -- -i --portmask=0x3 --nb-cores=2
 ```
 Interactive commands
 ```
+start
 show port info 0
 show port info all
 
